@@ -1,0 +1,35 @@
+# Virtual environment
+asl_env/
+venv/
+env/
+
+# Dataset folders
+Data/
+
+images/
+train/
+test/
+validation/
+
+# Model checkpoints
+*.h5
+*.pt
+*.ckpt
+*.zip
+*.tar
+*.gz
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.tmp
+
+# Jupyter & Streamlit
+.ipynb_checkpoints/
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db

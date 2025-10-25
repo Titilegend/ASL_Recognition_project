@@ -13,6 +13,7 @@ A real-time American Sign Language (ASL) recognition system that translates hand
 
 - **Real-time Recognition**: Process webcam feed for instant ASL translation
 - **26 ASL Letters**: Support for A-Z alphabet recognition
+- **Common Phrases**: Recognize Hello, Goodbye, Thank You, I Love You, Help, Home, Yes, No
 - **MediaPipe Integration**: Accurate hand landmark detection
 - **User-Friendly Interface**: Clean Streamlit web interface
 

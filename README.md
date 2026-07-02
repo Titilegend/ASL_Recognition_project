@@ -2,6 +2,8 @@
 
 A real-time American Sign Language (ASL) recognition system that translates hand gestures into text using computer vision and machine learning.
 
+Link to application : https://aslrecognitionproject.streamlit.app/
+
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8-green)
